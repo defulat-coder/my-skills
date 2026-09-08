@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c678a3f6-c416-41e8-8788-ac9669e347ba",
+  "path": "find-animation-opportunities",
+  "path_key": "find-animation-opportunities",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/emilkowalski/skills/tree/main/skills/find-animation-opportunities",
+    "subpath": "skills/find-animation-opportunities",
+    "branch": "main"
+  }
+}

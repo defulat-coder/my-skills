@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0cfe190-f1ca-4650-ba72-18b258ad8359",
+  "path": "animate",
+  "path_key": "animate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/emilkowalski/skills/tree/main/skills/animate",
+    "subpath": "skills/animate",
+    "branch": "main"
+  }
+}

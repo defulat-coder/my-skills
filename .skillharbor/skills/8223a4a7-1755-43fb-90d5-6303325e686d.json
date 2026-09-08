@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8223a4a7-1755-43fb-90d5-6303325e686d",
+  "path": "write-swift",
+  "path_key": "write-swift",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/emilkowalski/skills/tree/main/skills/write-swift",
+    "subpath": "skills/write-swift",
+    "branch": "main"
+  }
+}

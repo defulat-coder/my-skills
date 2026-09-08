@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "24581f51-dd92-41d3-a6d1-74a8b80a8dd4",
+  "path": "prototype",
+  "path_key": "prototype",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/emilkowalski/skills/tree/main/skills/prototype",
+    "subpath": "skills/prototype",
+    "branch": "main"
+  }
+}

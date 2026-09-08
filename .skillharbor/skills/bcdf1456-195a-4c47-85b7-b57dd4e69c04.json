@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bcdf1456-195a-4c47-85b7-b57dd4e69c04",
+  "path": "improve-animations",
+  "path_key": "improve-animations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/emilkowalski/skills/tree/main/skills/improve-animations",
+    "subpath": "skills/improve-animations",
+    "branch": "main"
+  }
+}

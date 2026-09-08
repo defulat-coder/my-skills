@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3f662c42-d4b6-4501-ba86-c34de917f094",
+  "path": "review-animations",
+  "path_key": "review-animations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/emilkowalski/skills/tree/main/skills/review-animations",
+    "subpath": "skills/review-animations",
+    "branch": "main"
+  }
+}
